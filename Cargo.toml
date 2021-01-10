@@ -10,6 +10,8 @@ edition = "2018"
 winit = "0.19"
 gfx-hal = "0.3.0"
 arrayvec = "0.4"
+log = "0.4.6"
+simple_logger = "1.2"
 
 [dependencies.gfx-backend-vulkan]
 version = "0.3"
